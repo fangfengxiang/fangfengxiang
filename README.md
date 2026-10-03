@@ -1,9 +1,9 @@
 <details>
 <summary><strong>🌐 English — click to expand</strong></summary>
 
-Nice to meet you 👋
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
 
-I am Frank, a backend engineer based in Singapore. ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
+**Nice to meet you 👋**
 
 > 履道坦坦，幽人贞吉 — "The path is smooth for those who walk it with quiet integrity."
 
@@ -17,12 +17,12 @@ Selected projects:
 The repo cards below (🏆 star projects I contributed to) are auto-updated daily by GitHub Actions.
 
 </details>
+   
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
 
-Nice to meet U 👋
+## Nice to meet U 👋
 
-I am Frank, a backend engineer based in Singapore. ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
-
-> 履道坦坦，幽人贞吉
+> 履道坦坦，幽人贞吉。
 
 ### 🏆 贡献过的明星项目
 
@@ -33,14 +33,14 @@ I am Frank, a backend engineer based in Singapore. ![Go](https://img.shields.io/
   </picture>
 </p>
 
-### 代表项目
+### 🔥 代表项目
 
 - [**lua-yar**](https://github.com/fangfengxiang/lua-yar) — 纯 Lua、运行时无关的 Yar RPC 协议实现，兼容 PHP Yar 与 yar-c
 - [**lua-resty-yar-grpc-bridge**](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge) — OpenResty 上的 gRPC ↔ YAR 双向协议桥，把 gRPC 客户端透明代理到 PHP Yar 服务
 - [**revid-engine**](https://github.com/fangfengxiang/revid-engine) — 零依赖、进程内的 Go 分布式 ID 生成引擎
 - [**beacon**](https://github.com/fangfengxiang/beacon) — PHP-FPM 的 C 扩展：自计数 pool 级健康感知、常驻治理 worker、双缓冲 shm 节点缓存、client 侧 failover
 
-### GitHub 账号评分 & Contribution Activity
+### 📊 GitHub 账号评分 & Contribution Activity
 
 <table>
   <tr>
