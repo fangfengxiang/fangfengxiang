@@ -1,0 +1,8 @@
+{
+  "repos": [
+    "lua-yar",
+    "lua-resty-yar-grpc-bridge",
+    "revid-engine",
+    "beacon"
+  ]
+}
