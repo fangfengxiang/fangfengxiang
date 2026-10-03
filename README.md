@@ -3,9 +3,7 @@
 
 Nice to meet you 👋
 
-Backend engineer based in Singapore
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+I am Frank, a backend engineer based in Singapore. ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
 
 > 履道坦坦，幽人贞吉 — "The path is smooth for those who walk it with quiet integrity."
 
@@ -22,9 +20,7 @@ The repo cards below (🏆 star projects I contributed to) are auto-updated dail
 
 Nice to meet U 👋
 
-后端工程师，现居新加坡
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+I am Frank, a backend engineer based in Singapore. ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
 
 > 履道坦坦，幽人贞吉
 
