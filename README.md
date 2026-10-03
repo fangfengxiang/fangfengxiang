@@ -8,7 +8,7 @@ Selected projects:
 - [**lua-yar**](https://github.com/fangfengxiang/lua-yar): Pure Lua, runtime-agnostic implementation of the Yar RPC protocol, compatible with PHP Yar & yar-c.
 - [**lua-resty-yar-grpc-bridge**](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge): OpenResty gRPC ↔ YAR bidirectional protocol bridge — transparently proxying gRPC clients to PHP Yar services.
 - [**revid-engine**](https://github.com/fangfengxiang/revid-engine): A zero-dependency, in-process distributed ID generation engine for Go.
-- [**beacon**](https://github.com/fangfengxiang/beacon): A PHP-FPM C extension — pool-level health self-tracking, resident governance worker, double-buffered shm peer cache, built-in LB & client-side failover.
+- [**beacon**](https://github.com/fangfengxiang/beacon): A PHP-FPM C extension — pool-level health self-tracking, resident governance worker, double-buffered shm peer cache, client-side failover.
 
 Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901dac502e00)
 
@@ -23,7 +23,7 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 - [**lua-yar**](https://github.com/fangfengxiang/lua-yar) — 纯 Lua、运行时无关的 Yar RPC 协议实现，兼容 PHP Yar 与 yar-c
 - [**lua-resty-yar-grpc-bridge**](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge) — OpenResty 上的 gRPC ↔ YAR 双向协议桥，把 gRPC 客户端透明代理到 PHP Yar 服务
 - [**revid-engine**](https://github.com/fangfengxiang/revid-engine) — 零依赖、进程内的 Go 分布式 ID 生成引擎
-- [**beacon**](https://github.com/fangfengxiang/beacon) — PHP-FPM 的 C 扩展：自计数 pool 级健康感知、常驻治理 worker、双缓冲 shm 节点缓存、内置 LB 与 client 侧 failover
+- [**beacon**](https://github.com/fangfengxiang/beacon) — PHP-FPM 的 C 扩展：自计数 pool 级健康感知、常驻治理 worker、双缓冲 shm 节点缓存、client 侧 failover
 
 ### 联系方式
 
