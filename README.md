@@ -3,12 +3,16 @@
 
 Backend engineer based in Singapore · PHP / Lua / Go · OpenResty & RPC infrastructure.
 
+> 履道坦坦，幽人贞吉 — "The path is smooth for those who walk it with quiet integrity."
+
 Selected projects:
 
-- [**lua-yar**](https://github.com/fangfengxiang/lua-yar): Pure Lua, runtime-agnostic implementation of the Yar RPC protocol, compatible with PHP Yar & yar-c.
+- [**lua-yar**](https://github.com/fangfengxiang/lua-yar): Pure Lua, runtime-agnostic implementation of the Yar RPC protocol, compatible with PHP Yar & yar-c — works in OpenResty, Skynet, and standalone Lua.
 - [**lua-resty-yar-grpc-bridge**](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge): OpenResty gRPC ↔ YAR bidirectional protocol bridge — transparently proxying gRPC clients to PHP Yar services.
 - [**revid-engine**](https://github.com/fangfengxiang/revid-engine): A zero-dependency, in-process distributed ID generation engine for Go.
 - [**beacon**](https://github.com/fangfengxiang/beacon): A PHP-FPM C extension — pool-level health self-tracking, resident governance worker, double-buffered shm peer cache, client-side failover.
+
+The showcase table below (🏆 open-source projects I contributed to · 🛠 my representative works) is auto-updated daily by GitHub Actions.
 
 Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901dac502e00)
 
@@ -23,9 +27,9 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 <!-- SHOWCASE:START -->
 | 🏆 贡献过的明星项目 | 🛠 代表作 |
 | --- | --- |
-| **[laruence/yar](https://github.com/laruence/yar)** ⭐ 1436 · 5 提交 · 2 PR | **[lua-yar](https://github.com/fangfengxiang/lua-yar)** ⭐ 4<br>Lua · Light, concurrent, and pure Lua RPC fra… |
-| **[php/doc-en](https://github.com/php/doc-en)** ⭐ 598 · 1 提交 · 1 PR | **[lua-resty-yar-grpc-bridge](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge)** ⭐ 0<br>Raku · OpenResty gRPC ↔ YAR bidirectional prot… |
-| **[laruence/yar-c](https://github.com/laruence/yar-c)** ⭐ 112 · 0 提交 · 1 PR | **[revid-engine](https://github.com/fangfengxiang/revid-engine)** ⭐ 1<br>Go · A zero-dependency, in-process distribut… |
+| **[laruence/yar](https://github.com/laruence/yar)** ⭐ 1436 · 5 提交 · 2 PR | **[lua-yar](https://github.com/fangfengxiang/lua-yar)** ⭐ 4<br>Lua · Light, concurrent, and pure Lua RPC framework compatible with PHP Yar & yar-c, optimized for OpenResty, Skynet, and standalone Lua. |
+| **[php/doc-en](https://github.com/php/doc-en)** ⭐ 598 · 1 提交 · 1 PR | **[lua-resty-yar-grpc-bridge](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge)** ⭐ 0<br>Raku · OpenResty gRPC ↔ YAR bidirectional protocol bridge — transparently proxy between gRPC clients and PHP Yar services. |
+| **[laruence/yar-c](https://github.com/laruence/yar-c)** ⭐ 112 · 0 提交 · 1 PR | **[revid-engine](https://github.com/fangfengxiang/revid-engine)** ⭐ 1<br>Go · A zero-dependency, in-process distributed ID generation engine for Go |
 <!-- SHOWCASE:END -->
 
 - [**lua-yar**](https://github.com/fangfengxiang/lua-yar) — 纯 Lua、运行时无关的 Yar RPC 协议实现，兼容 PHP Yar 与 yar-c

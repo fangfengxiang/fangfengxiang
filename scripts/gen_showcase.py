@@ -125,7 +125,7 @@ def build_table(star_rows, own_rows):
         if i < len(own_rows):
             r = own_rows[i]
             name = r["full"].split("/", 1)[1]
-            meta = " · ".join(p for p in [r["lang"], trunc(r["desc"], 40)] if p)
+            meta = " · ".join(p for p in [r["lang"], md_escape(r["desc"])] if p)
             right = (f"**[{name}](https://github.com/{r['full']})** "
                      f"⭐ {r['stars']}")
             if meta:
