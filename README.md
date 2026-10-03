@@ -49,13 +49,9 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fangfengxiang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true&amp;theme=github_dark">
     <img src="https://github-readme-stats.vercel.app/api?username=fangfengxiang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true" alt="GitHub 账号统计与等级评分" height="195">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/fangfengxiang?theme=dark&amp;lang=zh">
-    <img src="https://ghfind.com/api/card/mini/fangfengxiang?theme=light&amp;lang=zh" alt="GitHub Roast 评分卡" height="195">
-  </picture>
 </p>
 
-<p align="center"><sub>GitHub Readme Stats 第三方评分 + [ghfind Roast 评分](https://ghfind.com/u/fangfengxiang?ref=badge) · Third-party ranks</sub></p>
+<p align="center"><sub>GitHub Readme Stats 第三方评分 · Third-party rank</sub></p>
 
 ### Contribution Activity
 
