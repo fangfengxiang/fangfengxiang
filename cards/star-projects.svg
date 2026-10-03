@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="302" viewBox="0 0 840 302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="1" y="1" width="838" height="300" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="20" y="44" font-size="20" font-weight="600" fill="#1f2328">🏆 贡献过的明星项目</text>
+<text x="20" y="70" font-size="13" fill="#57606a">参与过的高星开源仓库（提交 + PR）</text>
+<rect x="20" y="96" width="800" height="52" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="36" y="127" font-size="15" font-weight="500" fill="#1f2328">laruence/yar</text>
+<text x="804" y="127" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 1436  5 提交 · 2 PR</text>
+<rect x="20" y="158" width="800" height="52" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="36" y="189" font-size="15" font-weight="500" fill="#1f2328">php/doc-en</text>
+<text x="804" y="189" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 598  1 提交 · 1 PR</text>
+<rect x="20" y="220" width="800" height="52" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="36" y="251" font-size="15" font-weight="500" fill="#1f2328">laruence/yar-c</text>
+<text x="804" y="251" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 112  0 提交 · 1 PR</text>
+</svg>

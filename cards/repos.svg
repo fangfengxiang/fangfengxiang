@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="416" viewBox="0 0 840 416" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="1" y="1" width="838" height="414" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="20" y="44" font-size="20" font-weight="600" fill="#1f2328">🛠 代表作</text>
+<text x="20" y="70" font-size="13" fill="#57606a">按实质贡献优先、高星影响辅助排序的代表项目</text>
+<rect x="20" y="96" width="393" height="86" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="36" y="128" font-size="15" font-weight="500" fill="#1f2328">laruence/yar</text>
+<text x="397" y="128" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 1436</text>
+<text x="36" y="158" font-size="13" fill="#57606a">2 PR · 5 提交</text>
+<rect x="427" y="96" width="393" height="86" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="443" y="128" font-size="15" font-weight="500" fill="#1f2328">php/doc-en</text>
+<text x="804" y="128" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 598</text>
+<text x="443" y="158" font-size="13" fill="#57606a">1 PR · 1 提交</text>
+<rect x="20" y="196" width="393" height="86" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="36" y="228" font-size="15" font-weight="500" fill="#1f2328">laruence/yar-c</text>
+<text x="397" y="228" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 112</text>
+<text x="36" y="258" font-size="13" fill="#57606a">1 PR · 0 提交</text>
+<rect x="427" y="196" width="393" height="86" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="443" y="228" font-size="15" font-weight="500" fill="#1f2328">fangfengxiang/blog-public</text>
+<text x="804" y="228" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 8</text>
+<text x="443" y="258" font-size="13" fill="#57606a">Frank的博客,分享我的读书笔记和开发杂谈等</text>
+<rect x="20" y="296" width="393" height="86" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="36" y="328" font-size="15" font-weight="500" fill="#1f2328">fangfengxiang/ddns</text>
+<text x="397" y="328" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 4</text>
+<text x="36" y="358" font-size="13" fill="#57606a">PHP  利用腾讯云解析API实现动态dns解析</text>
+<rect x="427" y="296" width="393" height="86" rx="10" fill="none" stroke="#d0d7de"/>
+<text x="443" y="328" font-size="15" font-weight="500" fill="#1f2328">fangfengxiang/lua-yar</text>
+<text x="804" y="328" font-size="14" text-anchor="end" fill="#57606a"><tspan fill="#e3b341">★</tspan> 4</text>
+<text x="443" y="358" font-size="13" fill="#57606a">Lua  Light, concurrent, and pure Lua RPC fram…</text>
+</svg>

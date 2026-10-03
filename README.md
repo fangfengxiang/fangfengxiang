@@ -20,6 +20,16 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 
 > 履道坦坦，幽人贞吉
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/main/cards/star-projects-dark.svg">
+  <img src="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/main/cards/star-projects.svg" alt="贡献过的明星项目" width="840">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/main/cards/repos-dark.svg">
+  <img src="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/main/cards/repos.svg" alt="代表作" width="840">
+</picture>
+
 ### 精选项目
 
 - [**lua-yar**](https://github.com/fangfengxiang/lua-yar) — 纯 Lua、运行时无关的 Yar RPC 协议实现，兼容 PHP Yar 与 yar-c
