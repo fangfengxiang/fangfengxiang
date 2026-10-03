@@ -14,8 +14,6 @@ Selected projects:
 
 The repo cards below (🏆 star projects I contributed to) are auto-updated daily by GitHub Actions.
 
-Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901dac502e00)
-
 </details>
 
 后端工程师，现居新加坡 · Go / C / OpenResty / PHP。
@@ -38,30 +36,24 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 - [**revid-engine**](https://github.com/fangfengxiang/revid-engine) — 零依赖、进程内的 Go 分布式 ID 生成引擎
 - [**beacon**](https://github.com/fangfengxiang/beacon) — PHP-FPM 的 C 扩展：自计数 pool 级健康感知、常驻治理 worker、双缓冲 shm 节点缓存、client 侧 failover
 
-### 联系方式
+### GitHub 账号评分 & Contribution Activity
 
-- 掘金：[juejin.cn/user/5860901dac502e00](https://juejin.cn/user/5860901dac502e00)
-- 邮箱：fangfengxiang836@gmail.com
-
-### GitHub 账号评分 / Account stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fangfengxiang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true&amp;theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=fangfengxiang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true" alt="GitHub 账号统计与等级评分" height="195">
-  </picture>
-</p>
-
-<p align="center"><sub>GitHub Readme Stats 第三方评分 · Third-party rank</sub></p>
-
-### Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/output/github-contribution-grid-snake.svg" alt="Fang Fengxiang 的 GitHub Contribution Activity 动画" width="100%">
-  </picture>
-</p>
-
-<p align="center"><sub>每日自动刷新 · Daily refresh</sub></p>
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fangfengxiang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true&amp;theme=github_dark">
+        <img src="https://github-readme-stats.vercel.app/api?username=fangfengxiang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true" alt="GitHub 账号统计与等级评分" width="100%">
+      </picture>
+      <br><sub>GitHub Readme Stats 第三方评分 · Third-party rank</sub>
+    </td>
+    <td align="center" width="55%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/output/github-contribution-grid-snake.svg">
+        <img src="https://raw.githubusercontent.com/fangfengxiang/fangfengxiang/output/github-contribution-grid-snake.svg" alt="Fang Fengxiang 的 GitHub Contribution Activity 动画" width="100%">
+      </picture>
+      <br><sub>每日自动刷新 · Daily refresh</sub>
+    </td>
+  </tr>
+</table>
