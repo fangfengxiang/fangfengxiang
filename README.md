@@ -24,28 +24,12 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 
 ### 🏆 贡献过的明星项目
 
-<!-- SHOWCASE:START -->
 <p align="center">
-  <a href="https://github.com/laruence/yar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laruence&amp;repo=yar&amp;theme=github_dark">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laruence&amp;repo=yar" alt="laruence/yar">
-    </picture>
-  </a>
-  <a href="https://github.com/php/doc-en">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=php&amp;repo=doc-en&amp;theme=github_dark">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=php&amp;repo=doc-en" alt="php/doc-en">
-    </picture>
-  </a>
-  <a href="https://github.com/laruence/yar-c">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laruence&amp;repo=yar-c&amp;theme=github_dark">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laruence&amp;repo=yar-c" alt="laruence/yar-c">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cards/star-projects-dark.svg">
+    <img src="cards/star-projects.svg" alt="贡献过的明星项目" width="100%">
+  </picture>
 </p>
-<!-- SHOWCASE:END -->
 
 ### 代表项目
 

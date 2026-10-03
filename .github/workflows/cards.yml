@@ -16,15 +16,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update showcase table
+      - name: Generate star-projects SVG cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/gen_showcase.py
+        run: python3 scripts/gen_cards.py
 
-      - name: Commit README
+      - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update showcase table [skip ci]" || echo "no changes"
+          git add cards/
+          git commit -m "chore: update star-projects cards [skip ci]" || echo "no changes"
           git push
