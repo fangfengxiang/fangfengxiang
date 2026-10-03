@@ -90,7 +90,9 @@ FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 
 
 def star_projects_svg(rows, theme):
-    W, pad, row_h, gap = 600, 10, 44, 6
+    W, pad, gap = 600, 10, 6
+    fs_name, fs_meta, vpad = 17, 14, 12  # 行高由字号 + 上下留白撑开
+    row_h = fs_name + vpad * 2
     body = len(rows) * row_h + (len(rows) - 1) * gap if rows else 40
     H = pad * 2 + body
     t = THEMES[theme]
@@ -106,11 +108,12 @@ def star_projects_svg(rows, theme):
             f'fill="{t["text"]}">暂无数据</text>')
     y = pad
     for r in rows:
+        base = y + vpad + round(fs_name * 0.75)
         parts += [
             f'<a href="https://github.com/{esc(r["full"])}">',
-            f'<text x="{pad + 8}" y="{y + row_h//2 + 6}" font-size="18" '
+            f'<text x="{pad + 8}" y="{base}" font-size="{fs_name}" '
             f'font-weight="500" fill="{t["name"]}">{esc(r["full"])}</text>',
-            f'<text x="{W - pad - 16}" y="{y + row_h//2 + 5}" font-size="15" '
+            f'<text x="{W - pad - 16}" y="{base}" font-size="{fs_meta}" '
             f'text-anchor="end" fill="{t["text"]}">'
             f'<tspan fill="{t["star"]}">★</tspan> {r["stars"]}'
             f'  {r["commits"]} 提交 · {r["prs"]} PR</text>',
