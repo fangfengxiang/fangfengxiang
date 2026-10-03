@@ -91,7 +91,7 @@ FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 
 def star_projects_svg(rows, theme):
     W, pad, gap = 600, 10, 6
-    fs_name, fs_meta, vpad = 17, 14, 12  # 行高由字号 + 上下留白撑开
+    fs_name, fs_meta, vpad = 16, 13, 10  # 行高由字号 + 上下留白撑开
     row_h = fs_name + vpad * 2
     body = len(rows) * row_h + (len(rows) - 1) * gap if rows else 40
     H = pad * 2 + body
