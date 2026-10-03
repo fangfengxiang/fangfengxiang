@@ -10,7 +10,7 @@ import urllib.request
 
 USER = os.environ.get("CARD_USER", "fangfengxiang")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-STAR_PROJECTS_LIMIT = 8
+STAR_PROJECTS_LIMIT = 3
 STAR_THRESHOLD = 50
 
 HDRS = {

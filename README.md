@@ -1,7 +1,7 @@
 <details>
 <summary><strong>🌐 English — click to expand</strong></summary>
 
-Backend engineer based in Singapore · PHP / Lua / Go · OpenResty & RPC infrastructure.
+Backend engineer based in Singapore · Go / C / OpenResty / PHP.
 
 > 履道坦坦，幽人贞吉 — "The path is smooth for those who walk it with quiet integrity."
 
@@ -18,7 +18,7 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 
 </details>
 
-后端工程师，现居新加坡 · PHP / Lua / Go · OpenResty 与 RPC 基础设施。
+后端工程师，现居新加坡 · Go / C / OpenResty / PHP。
 
 > 履道坦坦，幽人贞吉
 
