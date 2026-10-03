@@ -28,8 +28,6 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 | **[laruence/yar-c](https://github.com/laruence/yar-c)** ⭐ 112 · 0 提交 · 1 PR | **[revid-engine](https://github.com/fangfengxiang/revid-engine)** ⭐ 1<br>Go · A zero-dependency, in-process distribut… |
 <!-- SHOWCASE:END -->
 
-### 精选项目
-
 - [**lua-yar**](https://github.com/fangfengxiang/lua-yar) — 纯 Lua、运行时无关的 Yar RPC 协议实现，兼容 PHP Yar 与 yar-c
 - [**lua-resty-yar-grpc-bridge**](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge) — OpenResty 上的 gRPC ↔ YAR 双向协议桥，把 gRPC 客户端透明代理到 PHP Yar 服务
 - [**revid-engine**](https://github.com/fangfengxiang/revid-engine) — 零依赖、进程内的 Go 分布式 ID 生成引擎
