@@ -90,7 +90,7 @@ FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 
 
 def star_projects_svg(rows, theme):
-    W, pad, row_h, gap = 840, 20, 60, 10
+    W, pad, row_h, gap = 600, 20, 60, 10
     body = len(rows) * (row_h + gap) if rows else 56
     H = pad * 2 + body
     t = THEMES[theme]
