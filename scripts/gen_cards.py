@@ -110,9 +110,9 @@ def star_projects_svg(rows, theme):
             f'<a href="https://github.com/{esc(r["full"])}">',
             f'<rect x="{pad}" y="{y}" width="{W - pad*2}" height="{row_h}" '
             f'rx="10" fill="none" stroke="{t["card_border"]}"/>',
-            f'<text x="{pad + 16}" y="{y + row_h//2 + 7}" font-size="20" '
+            f'<text x="{pad + 16}" y="{y + row_h//2 + 7}" font-size="19" '
             f'font-weight="500" fill="{t["name"]}">{esc(r["full"])}</text>',
-            f'<text x="{W - pad - 16}" y="{y + row_h//2 + 6}" font-size="17" '
+            f'<text x="{W - pad - 16}" y="{y + row_h//2 + 6}" font-size="16" '
             f'text-anchor="end" fill="{t["text"]}">'
             f'<tspan fill="{t["star"]}">★</tspan> {r["stars"]}'
             f'  {r["commits"]} 提交 · {r["prs"]} PR</text>',
