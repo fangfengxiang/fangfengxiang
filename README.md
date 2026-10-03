@@ -12,6 +12,8 @@ Selected projects:
 
 Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901dac502e00)
 
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/fangfengxiang)](https://ghfind.com/u/fangfengxiang?ref=badge)
+
 </details>
 
 后端工程师，现居新加坡 · PHP / Lua / Go · OpenResty 与 RPC 基础设施。
@@ -38,6 +40,8 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 </picture></a>
 
 <sub>GitHub Readme Stats 第三方评分 · Third-party rank</sub>
+
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/fangfengxiang?lang=zh)](https://ghfind.com/u/fangfengxiang?ref=badge)
 
 ### Contribution Activity
 
