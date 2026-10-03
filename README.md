@@ -26,10 +26,10 @@ The repo cards below (🏆 star projects I contributed to) are auto-updated dail
 
 ### 🏆 贡献过的明星项目
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="cards/star-projects-dark.svg">
-    <img src="cards/star-projects.svg" alt="贡献过的明星项目" width="49%">
+    <img src="cards/star-projects.svg" alt="贡献过的明星项目" width="60%">
   </picture>
 </p>
 
