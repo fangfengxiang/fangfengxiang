@@ -96,7 +96,7 @@ def fetch_own_repos():
     return repos
 
 
-def order_own_repos(own):
+def order_own_repos(own, limit):
     """配置顺序优先，其余按 star 降序（fetch 时已按 star 排序）。"""
     try:
         with open(CONFIG_PATH) as f:
@@ -106,7 +106,7 @@ def order_own_repos(own):
     by_name = {r["full"].split("/", 1)[1]: r for r in own}
     ordered = [by_name.pop(n) for n in preferred if n in by_name]
     ordered.extend(by_name.values())
-    return ordered[:REPOS_LIMIT]
+    return ordered[:limit]
 
 
 def build_table(star_rows, own_rows):
@@ -124,8 +124,9 @@ def build_table(star_rows, own_rows):
         right = ""
         if i < len(own_rows):
             r = own_rows[i]
+            name = r["full"].split("/", 1)[1]
             meta = " · ".join(p for p in [r["lang"], trunc(r["desc"], 40)] if p)
-            right = (f"**[{r['full']}](https://github.com/{r['full']})** "
+            right = (f"**[{name}](https://github.com/{r['full']})** "
                      f"⭐ {r['stars']}")
             if meta:
                 right += f"<br>{meta}"
@@ -135,7 +136,9 @@ def build_table(star_rows, own_rows):
 
 def main():
     star_rows = fetch_contributions()
-    own_rows = order_own_repos(fetch_own_repos())
+    # 对称：代表作数量跟随明星项目数量，且各自有上限
+    limit = min(len(star_rows), REPOS_LIMIT)
+    own_rows = order_own_repos(fetch_own_repos(), limit)
     block = build_table(star_rows, own_rows)
 
     with open(README_PATH) as f:

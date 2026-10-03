@@ -23,12 +23,9 @@ Contact: fangfengxiang836@gmail.com · [Juejin](https://juejin.cn/user/5860901da
 <!-- SHOWCASE:START -->
 | 🏆 贡献过的明星项目 | 🛠 代表作 |
 | --- | --- |
-| **[laruence/yar](https://github.com/laruence/yar)** ⭐ 1436 · 5 提交 · 2 PR | **[fangfengxiang/lua-yar](https://github.com/fangfengxiang/lua-yar)** ⭐ 4<br>Lua · Light, concurrent, and pure Lua RPC fra… |
-| **[php/doc-en](https://github.com/php/doc-en)** ⭐ 598 · 1 提交 · 1 PR | **[fangfengxiang/lua-resty-yar-grpc-bridge](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge)** ⭐ 0<br>Raku · OpenResty gRPC ↔ YAR bidirectional prot… |
-| **[laruence/yar-c](https://github.com/laruence/yar-c)** ⭐ 112 · 0 提交 · 1 PR | **[fangfengxiang/revid-engine](https://github.com/fangfengxiang/revid-engine)** ⭐ 1<br>Go · A zero-dependency, in-process distribut… |
-|  | **[fangfengxiang/beacon](https://github.com/fangfengxiang/beacon)** ⭐ 1<br>C · PHP-FPM 状态信标与治理调度基底 C 扩展：pool 级健康感知、常驻治… |
-|  | **[fangfengxiang/blog-public](https://github.com/fangfengxiang/blog-public)** ⭐ 8<br>Frank的博客,分享我的读书笔记和开发杂谈等 |
-|  | **[fangfengxiang/ddns](https://github.com/fangfengxiang/ddns)** ⭐ 4<br>PHP · 利用腾讯云解析API实现动态dns解析 |
+| **[laruence/yar](https://github.com/laruence/yar)** ⭐ 1436 · 5 提交 · 2 PR | **[lua-yar](https://github.com/fangfengxiang/lua-yar)** ⭐ 4<br>Lua · Light, concurrent, and pure Lua RPC fra… |
+| **[php/doc-en](https://github.com/php/doc-en)** ⭐ 598 · 1 提交 · 1 PR | **[lua-resty-yar-grpc-bridge](https://github.com/fangfengxiang/lua-resty-yar-grpc-bridge)** ⭐ 0<br>Raku · OpenResty gRPC ↔ YAR bidirectional prot… |
+| **[laruence/yar-c](https://github.com/laruence/yar-c)** ⭐ 112 · 0 提交 · 1 PR | **[revid-engine](https://github.com/fangfengxiang/revid-engine)** ⭐ 1<br>Go · A zero-dependency, in-process distribut… |
 <!-- SHOWCASE:END -->
 
 ### 精选项目
