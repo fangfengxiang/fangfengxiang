@@ -18,7 +18,7 @@ The repo cards below (🏆 star projects I contributed to) are auto-updated dail
    
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat) ![OpenResty](https://img.shields.io/badge/OpenResty-2C8EBB?logo=openresty&logoColor=white&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat)
 
-## Nice to meet U 👋
+## Nice to meet you 👋
 
 ### 🏆 贡献过的明星项目
 
